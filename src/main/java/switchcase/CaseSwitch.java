@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class caseSwitch {
+public class CaseSwitch {
 
     final Logger print = Logger.getLogger("shape");
    final Scanner sc = new Scanner(System.in);

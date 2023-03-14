@@ -1,11 +1,11 @@
 package shapepkg;
 
 
-import switchcase.caseSwitch;
+import switchcase.CaseSwitch;
 
-public class shape {
+public class Shape {
     public static void main(String[] args) {
-       caseSwitch sw = new caseSwitch();
+       CaseSwitch sw = new CaseSwitch();
         sw.operations();
 
     }
